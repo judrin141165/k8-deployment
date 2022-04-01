@@ -5,7 +5,7 @@
       <paths name="K8_Docker">
         <serverdata>
           <mappings>
-            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/k8-deployment" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>

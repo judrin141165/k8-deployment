@@ -9,13 +9,17 @@ spec:
       component: web
   template:
     metadata:
+      name: web
       labels:
         component: web
 
+
     spec:
+      nodeSelector:
+        mylabel: "true"
       containers:
         - name: client
-          image: stephengrider/multi-client
+          image: judrin/multi-client
           ports:
             - containerPort: 3000
   replicas: 3

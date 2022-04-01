@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd451a62-f55a-4c83-a4d8-22648461a075" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/secrets.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-deployment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/client-deployment.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/postgres-deployment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/postgres-deployment.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/redis-deployment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/redis-deployment.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secrets.yml" beforeDir="false" afterPath="$PROJECT_DIR$/secrets.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +26,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TF_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -59,11 +63,30 @@
       <workItem from="1648456536018" duration="1796000" />
       <workItem from="1648634528270" duration="2646000" />
       <workItem from="1648728450220" duration="3216000" />
-      <workItem from="1648801613796" duration="1148000" />
+      <workItem from="1648801613796" duration="8426000" />
     </task>
+    <task id="LOCAL-00001" summary="commit_1_april_2022">
+      <created>1648803192920</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648803192920</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit_1_april_2022">
+      <created>1648803311648</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648803311648</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit_1_april_2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit_1_april_2022" />
   </component>
 </project>

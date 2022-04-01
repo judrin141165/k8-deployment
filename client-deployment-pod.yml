@@ -1,0 +1,19 @@
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: web
+  labels:
+    component: web
+spec:
+  nodeSelector:
+    mylabel: "true"
+
+  containers:
+
+    - name: client
+      image: judrin/multi-client
+      ports:
+        - containerPort: 3000
+
+
