@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3721a789-ac1a-4e49-bd85-bf53e1cd0a81" name="K8_Docker">
+        <fileTransfer rootFolder="/home/ec2-user" accessType="SFTP" host="52.52.88.40" port="22" sshConfigId="973309a0-fe9a-4d89-872b-64af2f5926ee" sshConfig="ec2-user@52.52.88.40:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

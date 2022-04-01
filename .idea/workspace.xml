@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd451a62-f55a-4c83-a4d8-22648461a075" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/secrets.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postgres-deployment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/postgres-deployment.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis-deployment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/redis-deployment.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="213ao1GbrSqJRxUXBGYjya5gu8N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd451a62-f55a-4c83-a4d8-22648461a075" name="Changes" comment="" />
+      <created>1637172396564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637172396564</updated>
+      <workItem from="1637172405274" duration="708000" />
+      <workItem from="1637224791209" duration="696000" />
+      <workItem from="1637753001754" duration="1287000" />
+      <workItem from="1637786907180" duration="3372000" />
+      <workItem from="1638305145663" duration="708000" />
+      <workItem from="1642194104752" duration="642000" />
+      <workItem from="1642242365299" duration="632000" />
+      <workItem from="1642428305787" duration="631000" />
+      <workItem from="1643273762087" duration="2014000" />
+      <workItem from="1646761474056" duration="1309000" />
+      <workItem from="1646904791272" duration="1917000" />
+      <workItem from="1646991101124" duration="586000" />
+      <workItem from="1647023897835" duration="589000" />
+      <workItem from="1647277206907" duration="1182000" />
+      <workItem from="1647879209823" duration="667000" />
+      <workItem from="1647958709771" duration="625000" />
+      <workItem from="1648031024776" duration="1213000" />
+      <workItem from="1648215480577" duration="1897000" />
+      <workItem from="1648302827485" duration="2892000" />
+      <workItem from="1648379111261" duration="2472000" />
+      <workItem from="1648456536018" duration="1796000" />
+      <workItem from="1648634528270" duration="2646000" />
+      <workItem from="1648728450220" duration="3216000" />
+      <workItem from="1648801613796" duration="1148000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
